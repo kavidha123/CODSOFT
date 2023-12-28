@@ -1,0 +1,45 @@
+Kavidha Krishnamoorthi
+Computer Science Student
+Velammal Engineering  College
+[kavidhahonor@gmail.com]
+[9003765741]
+
+
+Education
+Bachelor of Science in Computer Science
+M.B.A
+Velammal Engineering College
+
+
+Technical Skills
+Programming Languages: C++, Java, Python
+Web Development: HTML, CSS, JavaScript, React, Angular
+Backend Development: Node.js, MongoDB, SQL
+Projects
+Alarm Clock
+
+Description: This is a web-based alarm clock that allows users to set alarms for specific times. The interface typically includes a digital clock display and controls for setting alarms.
+HTML: Used for structuring the webpage, including elements for displaying time and input fields for setting alarms.
+CSS: Employed to style the page, such as customizing the look of the clock, buttons, and input fields. It could also include animations for alarm triggers.
+JavaScript: The core functionality of the alarm clock is powered by JavaScript. It manages time calculations, alarm settings, and triggers alarms at set times. It may also handle sound notifications.
+
+Music Player
+
+Description: A web-based music player that allows users to play, pause, skip, and upload tracks. It could include features like playlists and volume control.
+HTML: Used to create the user interface elements like play/pause buttons, track sliders, and volume controls.
+CSS: Styles the music player, giving it an appealing and user-friendly interface. It might include themes and responsive design for different screen sizes.
+JavaScript: Handles the audio playback, track controls, and user interactions. It manages the playlist, track progression, and possibly stores user preferences.
+
+E-Commerce Website
+
+Description: A simple e-commerce platform where users can browse products, add them to a cart, and make purchases.
+HTML: Constructs the structure of the website, including product listings, a shopping cart, and a checkout page.
+CSS: Styles the website to make it visually attractive and ensures it's responsive for various devices. This includes layout design, color schemes, and font choices.
+JavaScript: Adds interactivity to the website, like updating the shopping cart, filtering products, and form validations on the checkout page.
+
+Password Generator
+
+Description: A basic web-based calculator capable of performing arithmetic operations like addition, subtraction, multiplication, and division.
+HTML: Creates the layout for the calculator, including buttons for numbers and operations, and a display area for showing calculations.
+CSS: Styles the calculator, giving it a distinct look and feel. This might involve designing the buttons, display, and overall layout.
+JavaScript: The core functionality, handling the logic of calculations. It captures user input, performs operations, and displays the results.
